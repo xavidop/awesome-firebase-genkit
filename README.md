@@ -12,6 +12,12 @@
 
 A template for an awesome list with required conventions out of the box!
 
+<p align="center">
+	<a href="CODE_OF_CONDUCT.md">Code Of Conduct</a>&nbsp;&nbsp;&nbsp;
+	<a href="CONTRIBUITING.md">Contribution guide</a>&nbsp;&nbsp;&nbsp;
+  <a href="[CONTRIBUITING.md](https://github.com/xavidop/awesome-firebase-genkit/graphs/contributors)">Thanks goes to these contributors</a>&nbsp;&nbsp;&nbsp;
+</p>
+
 <!-- image -->
 
 <a href="" target="_blank" rel="noopener noreferrer">
@@ -37,8 +43,7 @@ A one line description of the product or tool.
 - [Tools](#tools)
 - [Examples](#examples)
 - [Follow](#follow)
-- [Contributing](#contributing)
-  - [Contributors](#contributors)
+- [Contributors](#contributors)
 
 <!-- CONTENT -->
 
@@ -75,10 +80,6 @@ A one line description of the product or tool.
 Who else should we be following!?
 
 
-## Contributing
-
-[Contributions of any kind welcome, just follow the guidelines](contributing.md)!
-
-### Contributors
+## Contributors
 
 [Thanks goes to these contributors](https://github.com/xavidop/awesome-firebase-genkit/graphs/contributors)!
