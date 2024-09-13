@@ -13,7 +13,7 @@ A template for an awesome list with required conventions out of the box!
 <!-- image -->
 
 <a href="" target="_blank" rel="noopener noreferrer">
-  <img src="https://raw.githubusercontent.com/xavidop/awesome-firebase-genkit/assets/header.png" />
+  <img src="https://github.com/xavidop/awesome-firebase-genkit/blob/main/assets/header.png?raw=true" />
 </a>
 
 <!-- description -->
