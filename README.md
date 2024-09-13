@@ -15,7 +15,7 @@ A template for an awesome list with required conventions out of the box!
 <p align="center">
 	<a href="CODE_OF_CONDUCT.md">Code Of Conduct</a>&nbsp;&nbsp;&nbsp;
 	<a href="CONTRIBUITING.md">Contribution guide</a>&nbsp;&nbsp;&nbsp;
-  <a href="[CONTRIBUITING.md](https://github.com/xavidop/awesome-firebase-genkit/graphs/contributors)">Thanks goes to these contributors</a>&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/xavidop/awesome-firebase-genkit/graphs/contributors">Contributors</a>&nbsp;&nbsp;&nbsp;
 </p>
 
 <!-- image -->
