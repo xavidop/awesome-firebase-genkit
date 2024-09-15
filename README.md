@@ -128,10 +128,10 @@ Genkit is a framework designed to help you build AI-powered applications and fea
 
 <!-- list people worth following on social sites (Twitter, LinkedIn, GitHub, YouTube etc.) -->
 
-[Firebase](https://x.com/firebase) - Official Twitter account for Firebase.
-[Genkit Discord server](https://discord.gg/qXt5zzQKpc) - Official Discord server for Genkit.
-[Genkit GitHub](https://github.com/firebase/genkit) - Official GitHub repository for Genkit.
-[The Fire Company](https://github.com/TheFireCo) - The Fire Company GitHub organization.
+- [Firebase](https://x.com/firebase) - Official Twitter account for Firebase.
+- [Genkit Discord server](https://discord.gg/qXt5zzQKpc) - Official Discord server for Genkit.
+- [Genkit GitHub](https://github.com/firebase/genkit) - Official GitHub repository for Genkit.
+- [The Fire Company](https://github.com/TheFireCo) - The Fire Company GitHub organization.
 
 ## Contributors
 
