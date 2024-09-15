@@ -14,7 +14,7 @@ A collection of awesome things regarding the Firebase Genkit ecosystem.
 
 <p align="center">
 	<a href="CODE_OF_CONDUCT.md">Code Of Conduct</a>&nbsp;&nbsp;&nbsp;
-	<a href="CONTRIBUITING.md">Contribution guide</a>&nbsp;&nbsp;&nbsp;
+	<a href="CONTRIBUTING.md">Contribution guide</a>&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/xavidop/awesome-firebase-genkit/graphs/contributors">Contributors</a>&nbsp;&nbsp;&nbsp;
 </p>
 
