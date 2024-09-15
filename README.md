@@ -13,16 +13,17 @@
 A collection of awesome things regarding the Firebase Genkit ecosystem.
 
 <p align="center">
-	<a href="CODE_OF_CONDUCT.md">Code Of Conduct</a>&nbsp;&nbsp;&nbsp;
-	<a href="CONTRIBUTING.md">Contribution guide</a>&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/xavidop/awesome-firebase-genkit/graphs/contributors">Contributors</a>&nbsp;&nbsp;&nbsp;
+  <a href="CODE_OF_CONDUCT.md">Code Of Conduct</a>
+  <a href="CONTRIBUTING.md">Contribution guide</a>
+  <a href="https://github.com/xavidop/awesome-firebase-genkit/graphs/contributors">Contributors</a>
 </p>
 
 <!-- image -->
-
-<a href="" target="_blank" rel="noopener noreferrer">
-  <img src="https://github.com/xavidop/awesome-firebase-genkit/blob/main/assets/header.png?raw=true" />
-</a>
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="/assets/Product_Lockup_Genkit_Horizontal_Full_Color.png">
+  <source media="(prefers-color-scheme: dark)" srcset="/assets/Product_Lockup_Genkit_Horizontal_Monochrome.png">
+  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="/assets/Product_Lockup_Genkit_Horizontal_Full_Color.png">
+</picture>
 
 <!-- description -->
 
