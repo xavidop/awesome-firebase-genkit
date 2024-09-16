@@ -4,10 +4,11 @@
 
 <!--lint ignore no-dead-urls-->
 
-# Awesome List Template <!-- omit from toc -->
+# Awesome Firebase Genkit <!-- omit from toc -->
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![lint](https://github.com/xavidop/awesome-firebase-genkit/actions/workflows/lint.yaml/badge.svg)](https://github.com/xavidop/awesome-firebase-genkit/actions/workflows/lint.yaml) [![Track Awesome List](https://www.trackawesomelist.com/badge.svg)](https://www.trackawesomelist.com/xavidop/awesome-firebase-genkit/)
 
+<!-- [![lint](https://github.com/xavidop/awesome-firebase-genkit/actions/workflows/lint.yaml/badge.svg)](https://github.com/xavidop/awesome-firebase-genkit/actions/workflows/lint.yaml) -->
 
 <!-- subtitle -->
 
