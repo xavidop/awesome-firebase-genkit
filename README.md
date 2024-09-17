@@ -6,7 +6,7 @@
 
 # Awesome Firebase Genkit <!-- omit from toc -->
 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re) <a href="https://app.commanddash.io/agent/github_firebase_genkit"><img src="https://img.shields.io/badge/AI-Genkit%20Assist-EB9FDA"></a>
 <!-- [![lint](https://github.com/xavidop/awesome-firebase-genkit/actions/workflows/lint.yaml/badge.svg)](https://github.com/xavidop/awesome-firebase-genkit/actions/workflows/lint.yaml) -->
 
 <!-- subtitle -->
@@ -127,7 +127,6 @@ Genkit is a framework designed to help you build AI-powered applications and fea
 - [Firebase GenKit with Gemma using Ollama](https://xavidop.me/gcp/2024-05-24-firebase-genkit-ollama/) - Firebase project that uses the Gen AI Kit with Gemma using Ollama.
 
 ## Tutorials
-- <a href="https://app.commanddash.io/agent/github_firebase_genkit"><img src="https://img.shields.io/badge/AI-Genkit%20Assist-EB9FDA"></a>
 
 - [Slack Bot App](https://medium.com/firebase-developers/build-a-slack-bot-app-with-firebase-genkit-in-just-100-lines-71d4e49c9e08) - A tutorial on how to build a Slack Bot App with Firebase Genkit.
 
