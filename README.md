@@ -6,7 +6,8 @@
 
 # Awesome Firebase Genkit <!-- omit from toc -->
 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re) <a href="https://app.commanddash.io/agent/github_firebase_genkit"><img src="https://img.shields.io/badge/AI-Genkit%20Assist-EB9FDA"></a>
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![lint](https://github.com/xavidop/awesome-firebase-genkit/actions/workflows/lint.yaml/badge.svg)](https://github.com/xavidop/awesome-firebase-genkit/actions/workflows/lint.yaml) [![Track Awesome List](https://www.trackawesomelist.com/badge.svg)](https://www.trackawesomelist.com/xavidop/awesome-firebase-genkit/) <a href="https://app.commanddash.io/agent/github_firebase_genkit"><img src="https://img.shields.io/badge/AI-Genkit%20Assist-EB9FDA"></a>
+
 <!-- [![lint](https://github.com/xavidop/awesome-firebase-genkit/actions/workflows/lint.yaml/badge.svg)](https://github.com/xavidop/awesome-firebase-genkit/actions/workflows/lint.yaml) -->
 
 <!-- subtitle -->
