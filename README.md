@@ -114,6 +114,7 @@ Genkit is a framework designed to help you build AI-powered applications and fea
 ## Talks
 
 - [Supercharge your app with Firebase Genkit](https://www.youtube.com/watch?v=eVud8llb_W0) - A talk on how to supercharge your app with Firebase Genkit.
+- [Accelerating Generative AI App Development with Flutter & Firebase Genkit](https://speakerdeck.com/coborinai/accelerating-generative-ai-app-development-with-flutter-and-firebase-genkit) - Slides from a presentation at FlutterGakkai, a Flutter conference in Japan, showcasing how to integrate Firebase Genkit with Flutter for rapid generative AI app development.
 
 ## Videos
 
