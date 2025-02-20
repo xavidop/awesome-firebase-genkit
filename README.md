@@ -41,6 +41,7 @@ Genkit is a framework designed to help you build AI-powered applications and fea
   - [JavaScript - Community](#javascript---community)
   - [Golang - Official](#golang---official)
   - [Golang - Community](#golang---community)
+- [Solutions](#solutions)
 - [Talks](#talks)
 - [Videos](#videos)
 - [Articles](#articles)
@@ -113,6 +114,10 @@ Genkit is a framework designed to help you build AI-powered applications and fea
 1. Model / Embedding Plugins
    - [`openai`](https://pkg.go.dev/github.com/yukinagae/genkit-go-plugins/plugins/openai) - Plugin for OpenAI APIs.
 
+## Solutions
+
+- [`internal AI`](https://github.com/tanabee/internal-ai) - An open-source Genkit-based internal AI chat application
+
 ## Talks
 
 - [Supercharge your app with Firebase Genkit](https://www.youtube.com/watch?v=eVud8llb_W0) - A talk on how to supercharge your app with Firebase Genkit.
@@ -143,6 +148,7 @@ Genkit is a framework designed to help you build AI-powered applications and fea
 - [Firebase Genkit for Go Developers: A Guide to Building LLM Applications](https://medium.com/@yukinagae/firebase-genkit-for-go-developers-a-guide-to-building-llm-applications-f96c51c34b10) - A getting started guide for Go developers using Genkit.
 - [Orchestrating Firebase and AI: Genkit architecture example](https://docs.google.com/presentation/d/10F2hjzJhdInSuhDQ8G_B2raGz79mzTRIcWU_59Zh5Y8/edit?usp=sharing) - Presented in a lightning talk at GDG DevFest Tokyo 2024.
 - [Getting Started with AI Image Generation Apps on Flutter, Genkit, and Imagen 3](https://medium.com/@nozomi-koborinai/getting-started-with-ai-image-generation-apps-on-flutter-genkit-and-imagen-3-9a83c63cbdf3) - A guide to building an AI image generation app using Flutter, Firebase Genkit, and Google's Imagen 3.
+- [internal AI: An open-source Genkit-based internal AI chat implementation](https://medium.com/firebase-developers/internal-ai-a-genkit-based-internal-ai-chat-released-as-open-source-37795896a106) - Introduction to an open-source solution for implementing an internal AI chat application.
 
 ## Tutorials
 
