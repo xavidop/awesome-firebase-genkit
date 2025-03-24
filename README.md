@@ -89,6 +89,7 @@ Genkit is a framework designed to help you build AI-powered applications and fea
    - [`genkitx-pgvector`](https://www.npmjs.com/package/genkitx-pgvector) - Plugin for PostgeSQL (PGVector) Vector Stores.
    - [`genkitx-tidb`](https://github.com/BelfoSamad/genkitx-tidb) - Plugin for TiDB Vector Stores.
    - [`genkitx-redis`](https://github.com/retzd-tech/genkitx-redis) - Plugin for Redis Vector Stores.
+   - [`genkitx-voiceflow`](https://github.com/xavidop/genkitx-voiceflow) - Plugin for Voiceflow KB.
 3. Evaluator Plugins
    - [`genkitx-promptfoo`](https://github.com/yukinagae/genkitx-promptfoo) - Plugin for Promptfoo Evaluations.
 4. Other Plugins
