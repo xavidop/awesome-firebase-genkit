@@ -22,9 +22,9 @@ A collection of awesome things regarding the Firebase Genkit ecosystem.
 
 <!-- image -->
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="/assets/Product_Lockup_Genkit_Horizontal_Full_Color.png">
-  <source media="(prefers-color-scheme: dark)" srcset="/assets/Product_Lockup_Genkit_Horizontal_Monochrome.png">
-  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="/assets/Product_Lockup_Genkit_Horizontal_Full_Color.png">
+  <source media="(prefers-color-scheme: light)" srcset="/assets/genkit-logo.png">
+  <source media="(prefers-color-scheme: dark)" srcset="/assets/genkit-logo-dark.png">
+  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="/assets/genkit-logo.png">
 </picture>
 
 <!-- description -->
