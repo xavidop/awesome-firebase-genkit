@@ -39,8 +39,10 @@ Genkit is a framework designed to help you build AI-powered applications and fea
 - [Plugins](#plugins)
   - [JavaScript - Official](#javascript---official)
   - [JavaScript - Community](#javascript---community)
+  - [Python - Official](#python---official)
   - [Golang - Official](#golang---official)
   - [Golang - Community](#golang---community)
+- [API References](#api-references)
 - [Solutions](#solutions)
 - [Talks](#talks)
 - [Videos](#videos)
@@ -81,6 +83,7 @@ Genkit is a framework designed to help you build AI-powered applications and fea
    - [`genkitx-azure-openai`](https://github.com/TheFireCo/genkit-plugins/tree/main/plugins/azure-openai) - Plugin for Azure OpenAI APIs.
    - [`genkitx-aws-bedrock`](https://github.com/xavidop/genkitx-aws-bedrock) - Plugin for AWS Bedrock APIs.
    - [`genkitx-deepseek`](https://github.com/oddbit/genkitx-deepseek) - Plugin for Deepseek Cloud APIs.
+   - [`genkitx-huggingface`](https://github.com/xavidop/genkitx-huggingface) - Plugin for Hugging Face Inference APIs.
 2. Vector Store Plugins
    - [`genkitx-convex`](https://github.com/TheFireCo/genkit-plugins/tree/main/plugins/convex) - Plugin for Convex Vector Stores.
    - [`genkitx-hnsw`](https://github.com/TheFireCo/genkit-plugins/tree/main/plugins/hnsw) - Plugin for HNSW Vector Stores.
@@ -98,15 +101,25 @@ Genkit is a framework designed to help you build AI-powered applications and fea
    - [`genkitx-rxjs`](https://github.com/pavelgj/genkitx-rxjs) - A simple RxJS helper/adapter for Firebase Genkit.
    - [`@agentic/genkit`](https://agentic.so/sdks/genkit) - Agentic Tools adapter for the Firebase Genkit SDK.
 
+### Python - Official
+1. Model / Embedding Plugins
+   - [`google-genai`](https://python.api.genkit.dev/reference/plugins/google-genai/) - The Google Generative AI plugin provides interfaces to Google's Gemini models through the Gemini API & Vertex AI models.
+   - [`ollama`](https://python.api.genkit.dev/reference/plugins/ollama/) - The Ollama plugin provides interfaces to any of the local LLMs supported by Ollama.
+2. Vector Store Plugins
+   - [`firestore`](https://python.api.genkit.dev/reference/plugins/firestore/) - The Firestore plugin provides interfaces to the Firestore vector store.
+   - [`dev_local_vectorstore`](https://python.api.genkit.dev/reference/plugins/dev-local-vectorstore/) - Plugin for Local Vector Store for development purposes.
+3. Other Plugins:
+   - [`flask`](https://python.api.genkit.dev/flask/) - Flask plugin for building web applications with Genkit.
+
 ### Golang - Official
 
 1. Model / Embedding Plugins
-   - [`vertexai`](https://firebase.google.com/docs/genkit-go/plugins/vertex-ai) - The Vertex AI plugin provides interfaces to several AI services: Google generative AI models and Vector Search.
-   - [`googleai`](https://firebase.google.com/docs/genkit-go/plugins/google-genai) - The Google Generative AI plugin provides interfaces to Google's Gemini models through the Gemini API.
+   - [`googlegenai`](https://firebase.google.com/docs/genkit-go/plugins/google-genai) - The Google Generative AI plugin provides interfaces to Google's Gemini models through the Gemini API & Vertex AI Models.
    - [`ollama`](https://firebase.google.com/docs/genkit-go/plugins/ollama) - The Ollama plugin provides interfaces to any of the local LLMs supported by Ollama.
 2. Vector Store Plugins
    - [`pinecone`](https://firebase.google.com/docs/genkit-go/plugins/pinecone) - Plugin for Pinecone Vector Stores.
    - [`localvec`](https://firebase.google.com/docs/genkit-go/rag) - Plugin for Local Vector Store for development purposes.
+   - [`pgvector`](https://firebase.google.com/docs/genkit-go/pgvector) - Plugin for PostgreSQL (PGVector) Vector Stores.
 3. Monitoring Plugins
    - [`googlecloud`](https://firebase.google.com/docs/genkit-go/plugins/google-cloud) - The Google Cloud plugin exports Firebase Genkit's telemetry and logging data to Google Cloud's operation suite.
 
@@ -114,6 +127,11 @@ Genkit is a framework designed to help you build AI-powered applications and fea
 
 1. Model / Embedding Plugins
    - [`openai`](https://pkg.go.dev/github.com/yukinagae/genkit-go-plugins/plugins/openai) - Plugin for OpenAI APIs.
+
+## API References
+1. [Javascript](https://js.api.genkit.dev/) - Specs for the JavaScript API.
+2. [Python](https://python.api.genkit.dev/) - Specs for the Python API.
+3. [Golang](https://pkg.go.dev/github.com/firebase/genkit/go) - Specs for the Golang API.
 
 ## Solutions
 
