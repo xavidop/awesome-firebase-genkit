@@ -129,7 +129,7 @@ Genkit is a framework designed to help you build AI-powered applications and fea
    - [`openai`](https://pkg.go.dev/github.com/yukinagae/genkit-go-plugins/plugins/openai) - Plugin for OpenAI APIs.
 
 ## API References
-1. [Javascript](https://js.api.genkit.dev/) - Specs for the JavaScript API.
+1. [JavaScript](https://js.api.genkit.dev/) - Specs for the JavaScript API.
 2. [Python](https://python.api.genkit.dev/) - Specs for the Python API.
 3. [Golang](https://pkg.go.dev/github.com/firebase/genkit/go) - Specs for the Golang API.
 
